@@ -325,3 +325,7 @@
   color: #ccc;
   background-color: #ddd;
 }
+
+#toc ul {
+  list-style-type: none;
+}

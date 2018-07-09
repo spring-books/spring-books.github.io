@@ -6,8 +6,8 @@
     <atom:link href="http://springbooks.org/feed.xml" rel="self" type="application/rss+xml" />
     <description>Spring Books</description>
     <language>en-gb</language>
-    <pubDate>星期一, 9 七月 2018 02:59:28 +0800</pubDate>
-    <lastBuildDate>星期一, 9 七月 2018 02:59:28 +0800</lastBuildDate>
+    <pubDate>星期一, 9 七月 2018 10:49:45 +0800</pubDate>
+    <lastBuildDate>星期一, 9 七月 2018 10:49:45 +0800</lastBuildDate>
 
     <item>
       <title>安装 Spring Boot CLI</title>
